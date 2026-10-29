@@ -1,0 +1,22 @@
+{
+  "id": "reviewer",
+  "name": "Reviewer",
+  "summary": "To read what landed for correctness, missed cases and risk",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "reviewer",
+    "writes": false,
+    "stages": [
+      "review"
+    ],
+    "when": "to read what landed for correctness, missed cases and risk"
+  }
+}

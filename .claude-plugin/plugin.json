@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-reviewer",
+  "version": "0.1.0",
+  "description": "The Reviewer role (`reviewer`) as a RasaOS role module. To read what landed for correctness, missed cases and risk"
+}
